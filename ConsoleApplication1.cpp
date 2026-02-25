@@ -36,5 +36,5 @@ using namespace std;
 }*/
 int main()
 {
-    cout << "eggs";
+    cout << "EGGS";
 }
