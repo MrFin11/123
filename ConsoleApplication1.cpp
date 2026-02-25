@@ -36,19 +36,5 @@ using namespace std;
 }*/
 int main()
 {
-    char c[10];
-    char rev[10];
-    int dl=0;
-    cin.getline(c,10);
-    for (int i = 0; c[i] != '\0'; i++)
-    {
-        dl++;
-    }
-    
-    for (int i = 0; c[i] != '\0'; i++)
-    {
-        rev[i] = c[dl-1-i];
-    }
-    rev[dl] = '\0';
-    cout << rev << endl;
+    cout << "eggs";
 }
